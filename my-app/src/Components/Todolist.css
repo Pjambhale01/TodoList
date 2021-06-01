@@ -1,0 +1,29 @@
+.container{
+    width: 50%;
+    margin: auto;
+    border: 2px solid red;
+    
+}
+.inside{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.task{
+    margin: 10px;
+}
+.listbtn{
+    /* margin-left: 150px; */
+}
+.btn1:hover{
+    background-color: blue;
+    cursor: pointer;
+    
+    
+}
+.btn2:hover{
+    background-color: red;
+}
+.pass{
+    color: red;
+}
